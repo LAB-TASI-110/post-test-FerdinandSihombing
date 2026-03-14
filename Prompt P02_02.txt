@@ -1,0 +1,12 @@
+Buatlah program yang mampu menentukan total stok hanya untuk kategori barang yang diminta.
+dengan beberapa ketentuan yang harus dipenuhi
+yaitu ada 3 input yaitu seperti yang saya buat dibawah ini
+1.Jumlah total data (N). 
+2.Deret stok (s1, s2, ..., sN). 
+3.Kode kategori barang.
+
+dan disini juga disini seperti contoh yang saya kasih yaitu Dasi SD,Gula,Rok Pramuka,dan minyak yang masing masing terdapat 222pcs,85pcs,5pcs,dan 120pcs dan juga saya berharap nanti kategori barang ini untuk Data stok barang disimpan dalam sebuah rak gudang yang tersusun rapi dan kelompok barang terpisah dan kerjakanlah dalam bahasa c dengan kontekstualisasi yang saya berikan tadi dan juga tidak ada batasan dalam pengerjaan promptnya dan juga ini dikerjakan dalam windows lebih tepatnya di vscode dan juga untuk struktur dan format sama seperti yang diatas ,dan saya ingin anda berperan sebagai dosen saya yang langsung keintinya dan tidak bertele-tele 
+
+datanya error,ada kesalahan dalam kode yang kamu kasih
+
+apakah anda bisa mengganti kategori Seragam menjadi Pakaian sekolah dikarenakan menurut saya Seragam itu spesifik dan lebih cocok untuk mendefinisikan pakaian sekolah yang bagian atas

@@ -1,0 +1,42 @@
+
+
+buatlah sistem pengiriman del express seperti soal ini dan juga saya tidak membutuhkan batasan tertentu dan juga struktur dan format yaitu daftar ongkos kirim del express yaitu pengirriman kota medan,balige,jakarta,surabaya, dengan total ongkos kirim masing masing 8.000,5.000,12.000,13.000, dan konsepnya itu didalam pulau untuk medan dan balige , dan luar pulau untuk jakarta dan surabaya 
+
+dengan input dan output akan keluar begini
+
+**Input**
+
+```bash
+MDN
+5
+JKT
+3
+BLG
+4
+END
+
+```
+
+**Output**
+Struk Pembayaran yang terdiri dari:
+Kota tujuan,
+Berat paket Butet,
+Berat paket Ucok,
+Total berat,
+Total ongkos kirim,
+Informasi promo yang diperoleh,
+
+buatlah dalam bahasa c dan juga tidak memerlukan batasan apapun dan untuk strukrur dan format sudah saya kasih sebelumnya dan juga untuk kontekstualisasi saya tidak terlalu memerlukannya dan ini akan di program di windows bukan linux dan juga saya ingin anda berperan sebagai dosen yang menjelaskan langsung ke intinya dan tidak bertele tele
+
+dan ada promo ongkir lebaran yaitu jika total pengiriman 10 kg diskon 10 persen dan jika mengirim diluar pulau itu asuransi gratis 
+
+kan tadi input-annya 
+MDN
+5
+JKT
+3
+BLG
+4
+kenpa tidak ada 4 untuk paketnya tadi
+
+buat ulang kodenya
