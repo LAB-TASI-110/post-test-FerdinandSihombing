@@ -36,7 +36,7 @@ int main() {
     for(int i = 0; i < N; i++) {
         if(strcmp(kategori[i], cariKategori) == 0) {
             total += stok[i];
-        }
+        }   
     }   
 
     printf("\nTotal stok kategori %s = %d pcs\n", cariKategori, total);

@@ -1,6 +1,6 @@
 Buatlah program yang mampu menentukan total stok hanya untuk kategori barang yang diminta.
 dengan beberapa ketentuan yang harus dipenuhi
-yaitu ada 3 input yaitu seperti yang saya buat dibawah ini
+yaitu ada 3 input yaitu seperti yang saya buat dibawah ini   
 1.Jumlah total data (N). 
 2.Deret stok (s1, s2, ..., sN). 
 3.Kode kategori barang.

@@ -17,17 +17,17 @@ int main() {
 
     while (1) {
         printf("\nMasukkan nomor menu: ");
-        scanf("%d", &pilihan);
+        scanf("%d", &Pilihan);
 
-        if (pilihan == 0) {
+        if (Pilihan == 0) {
             break;
         }
 
         printf("Masukkan Jumlah: ");
         scanf("%d", &jumlah);
 
-        switch (ilihan) {
-            case 1:
+        switch (Pilihan) {
+            case 1:  
                 total += 4000 * jumlah;
                 break;
             case 2:
