@@ -48,7 +48,7 @@ int main() {
     }
 
     printf("\nTotal yang harus dibayar: Rp%d\n", total);
-    printf("Terima kasih telah membeli di Kantin IT Del\n");
+    printf("terima kasih telah membeli di Kantin IT Del\n");
 
     return 0;
 }

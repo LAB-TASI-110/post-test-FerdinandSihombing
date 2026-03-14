@@ -84,7 +84,7 @@ int main() {
     else
         printf("Asuransi         : Tidak ada\n");
 
-    printf("Total Bayar      : Rp %.0f\n", totalBayar);
+    printf("total Bayar      : Rp %.0f\n", totalBayar);
 
     return 0;
 }

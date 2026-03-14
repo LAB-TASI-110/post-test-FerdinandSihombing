@@ -39,7 +39,7 @@ int main() {
         }   
     }   
 
-    printf("\nTotal stok kategori %s = %d pcs\n", cariKategori, total);
+    printf("\nTotal stok Kategori %s = %d pcs\n", cariKategori, total);
 
     return 0;
 }
