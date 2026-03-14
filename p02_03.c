@@ -23,7 +23,7 @@ int main() {
             break;
         }
 
-        printf("Masukkan jumlah: ");
+        printf("Masukkan Jumlah: ");
         scanf("%d", &jumlah);
 
         switch (pilihan) {
