@@ -26,7 +26,7 @@ int main() {
         printf("Masukkan Jumlah: ");
         scanf("%d", &jumlah);
 
-        switch (Pilihan) {
+        switch (ilihan) {
             case 1:
                 total += 4000 * jumlah;
                 break;

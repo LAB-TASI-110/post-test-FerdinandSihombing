@@ -72,7 +72,7 @@ int main() {
     printf("Berat Butet      : %d kg\n", beratButet);
     printf("Berat Ucok       : %d kg\n", beratUcok);
     printf("Total Berat      : %d kg\n", totalBerat);
-    printf("Total Ongkir     : Rp %d\n", totalOngkir);
+    printf("Total Ongkir     : Rp %d\n", totalOngkir);   
 
     if (totalBerat >= 10)
         printf("Promo Lebaran    : Diskon 10%%\n");

@@ -9,4 +9,4 @@ dan disini juga disini seperti contoh yang saya kasih yaitu Dasi SD,Gula,Rok Pra
 
 datanya error,ada kesalahan dalam kode yang kamu kasih
 
-apakah anda bisa mengganti kategori Seragam menjadi Pakaian sekolah dikarenakan menurut saya Seragam itu spesifik dan lebih cocok untuk mendefinisikan pakaian sekolah yang bagian atas
+apakah anda bisa mengganti kategori Seragam menjadi Pakaian sekolah dikarenakan menurut saya Seragam itu spesifik dan lebih cocok untuk mendefinisikan pakaian sekolah yang bagian atas    
